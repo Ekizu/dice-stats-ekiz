@@ -152,8 +152,8 @@
                 "context":"Bist du sicher, dass du ALLE lokalen Statistiken löschen möchtest? Dies betrifft nicht die in der Datenbank gespeicherten Daten sowie die Statistiken anderer Spieler."
             },
             "clear_your_db":{
-                "title":"Löschen bestätigen",
-                "context":"Bist du sicher, dass du DEINE lokalen Statistiken löschen möchtest? Dies betrifft nicht die in der Datenbank gespeicherten Daten sowie die Statistiken anderer Spieler."
+                "title":"Confirm Clear",
+                "context":"Are you sure you would like to clear YOUR roll data? This will clear YOUR users DB roll data. It It will not impact the local values or values on other players screens."
             },
             "clear_all_local":{
                 "title": "Löschen bestätigen",

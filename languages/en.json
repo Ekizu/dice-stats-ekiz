@@ -191,7 +191,7 @@
             },
             "clear_your_db":{
                 "title":"Confirm Clear",
-                "context":"Are you sure you would like to clear YOUR roll data? This will clear YOUR users roll data locally. It It will not impact the DB values or values on other players screens."
+                "context":"Are you sure you would like to clear YOUR roll data? This will clear YOUR users DB roll data. It It will not impact the local values or values on other players screens."
             },
             "clear_all_local":{
                 "title": "Confirm Clear",
