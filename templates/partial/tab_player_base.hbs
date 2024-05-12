@@ -82,16 +82,7 @@
             {{#diceStats_ifAutoDbActive playerData/AUTO_DB_ACTIVE}}
                 <br>
                 <h4 class="db-interaction-heading"></h4>
-                <table>
-                    <tr>
-                        <td>
-                            <button type="button" data-action="save">{{localize "DICE_STATS_TEXT.player_data_form.save_data_btn"}}</button>
-                        </td>
-                        <td>
-                            <button type="button" data-action="clearYourLocalRollData">{{localize "DICE_STATS_TEXT.player_data_form.clear_my_local_data_btn"}}</button>
-                        </td>
-                    </tr>
-                </table>
+                <button type="button" data-action="clearYourLocalRollData">{{localize "DICE_STATS_TEXT.player_data_form.clear_my_local_data_btn"}}</button>
                 <button type="button" data-action="loadAllFromDB">{{localize "DICE_STATS_TEXT.player_data_form.load_data_btn"}}</button>
                         
             {{else}}
